@@ -36,9 +36,6 @@ const TopBar = () => {
               </div>
             </div>
             <div className="flex items-center">
-              <div className={`pl-2`}>
-                <ThemeSwitch />
-              </div>
               {connected ? (
                 <div className="pl-2">
                   <AlertsList />
