@@ -45,7 +45,7 @@ const MarketSelect = () => {
         </div>
         <div className="mr-10 text-xs">
           <a
-            href="https://dex.kermit.finance"
+            href="https://dex.blades.finance/"
             className="text-primary default-transition underline hover:text-th-primary hover:no-underline border-1"
           >
             Go to Blades Dex
