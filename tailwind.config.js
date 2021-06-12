@@ -39,7 +39,7 @@ module.exports = {
         'mango-light': {
           light: '#FCFCFF',
           DEFAULT: '#ffffff',
-          dark: '#B9B5CE',
+          dark: '#ffffff',
         },
         'mango-grey': {
           lighter: '#f7f7f7',
@@ -98,7 +98,7 @@ module.exports = {
           'bkg-3': '#254170',
           'fgd-1': '#ffffff',
           'fgd-2': '#FCFCFF',
-          'fgd-3': '#B9B5CE',
+          'fgd-3': '#ffffff',
           'fgd-4': '#5ab5f3',
         },
         'th-bkg-1': 'var(--bkg-1)',
