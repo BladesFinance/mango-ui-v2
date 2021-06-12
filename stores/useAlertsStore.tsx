@@ -159,7 +159,8 @@ const useAlertsStore = create<AlertsStore>((set, get) => ({
         accounts.alerts.forEach((alert) => {
           alert.acc = marginAccounts[index]
           if (!alert.open) {
-            alert.triggeredTimestamp ||= alert.timestamp
+            alert.triggeredTimestamp ||
+              (alert.triggeredTimestamp = alert.timestamp)
           }
         })
       )
