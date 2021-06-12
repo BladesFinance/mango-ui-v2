@@ -39,7 +39,7 @@ function App({ Component, pageProps }) {
           name="twitter:description"
           content="Blades Leverage Trading - Next Generation, blazing fast, decentralised, cross-margin trading up to 5x leverage with nearly zero fees."
         />
-        <meta name="twitter:image" content="https://i.imgur.com/MfxQycw.jpg" />
+        <meta name="twitter:image" content="https://i.imgur.com/7uR04jE.jpeg" />
 
         <script src="/datafeeds/udf/dist/polyfills.js"></script>
         <script src="/datafeeds/udf/dist/bundle.js"></script>
