@@ -101,7 +101,7 @@ const TVChartContainer = () => {
       loading_screen: { backgroundColor: 'rgba(0,0,0,0.1)' },
       overrides: {
         'paneProperties.background':
-          theme === 'Dark' ? '#2B2B2B' : theme === 'Light' ? '#fff' : '#1D1832',
+          theme === 'Dark' ? '#2B2B2B' : theme === 'Light' ? '#fff' : '#030c23',
         'mainSeriesProperties.candleStyle.upColor':
           theme === 'Mango' ? '#AFD803' : '#5EBF4D',
         'mainSeriesProperties.candleStyle.downColor':
