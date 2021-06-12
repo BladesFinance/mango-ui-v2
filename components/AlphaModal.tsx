@@ -50,10 +50,10 @@ const AlphaModal = ({
         >
           https://usdt.mango.markets
         </a>{' '}
-        to access the USDT mango group.
+        to access the USDT Blades group.
       </div>
       <div className={`text-th-fgd-2 text-center`}>
-        Mango Markets is unaudited software. Use at your own risk.
+        Blades Leverage Trading is unaudited software. Use at your own risk.
         <div className={`mt-4 flex justify-center`}>
           <Button onClick={() => setAlphaAccepted(true)}>
             <div className={`flex items-center`}>Accept</div>

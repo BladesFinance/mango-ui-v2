@@ -337,11 +337,11 @@ const useMangoStore = create<MangoStore>((set, get) => ({
         })
         .catch((err) => {
           notify({
-            message: 'Could not get mango group: ',
+            message: 'Could not get blades group: ',
             description: `${err}`,
             type: 'error',
           })
-          console.log('Could not get mango group: ', err)
+          console.log('Could not get blades group: ', err)
         })
     },
     async fetchTradeHistory(marginAccount = null) {

@@ -178,7 +178,7 @@ export default function StatsPage() {
       <div className="min-h-screen w-full xl:w-3/4 mx-auto px-4 sm:px-6 sm:py-1 md:px-8 md:py-1 lg:px-12">
         <div className="text-center pt-8 pb-6 md:pt-10">
           <h1 className={`text-th-fgd-1 text-2xl font-semibold`}>
-            Mango Stats
+            Blades Stats
           </h1>
         </div>
         <div className="md:flex md:flex-col min-w-full">
