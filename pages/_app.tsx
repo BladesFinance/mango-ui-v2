@@ -37,7 +37,7 @@ function App({ Component, pageProps }) {
         <meta name="twitter:title" content="Blades Leverage Trading" />
         <meta
           name="twitter:description"
-          content="Blades Leverage Trading - Blazing Fast, decentralised, cross- margin trading up to 5x leverage with nearly zero fees."
+          content="Blades Leverage Trading - Next Generation, blazing fast, decentralised, cross- margin trading up to 5x leverage with nearly zero fees."
         />
         <meta name="twitter:image" content="https://i.imgur.com/MfxQycw.jpg" />
 
