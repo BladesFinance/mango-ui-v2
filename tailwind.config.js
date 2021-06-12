@@ -38,7 +38,7 @@ module.exports = {
         },
         'mango-light': {
           light: '#FCFCFF',
-          DEFAULT: '#F0EDFF',
+          DEFAULT: '#ffffff',
           dark: '#B9B5CE',
         },
         'mango-grey': {
@@ -96,7 +96,7 @@ module.exports = {
           'bkg-1': '#0e1b3a',
           'bkg-2': '#030c23',
           'bkg-3': '#254170',
-          'fgd-1': '#F0EDFF',
+          'fgd-1': '#ffffff',
           'fgd-2': '#FCFCFF',
           'fgd-3': '#B9B5CE',
           'fgd-4': '#5ab5f3',
